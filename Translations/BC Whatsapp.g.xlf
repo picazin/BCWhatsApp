@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="BC Whatsapp">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 2323645599 - Method 186414097 - NamedType 4219056676" size-unit="char" translate="yes" xml:space="preserve">
+          <source>https://wa.me/%1/?text=%2</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Phone no., %2 = Message text</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit WHA WhatsApp Management - Method SendMessage - NamedType WhatsappTxt</note>
+        </trans-unit>
+        <trans-unit id="Page 2823927727 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Whatsapp Messages</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WHA WhatsApp Message - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2823927727 - Control 1886397179 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receiver</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WHA WhatsApp Message - Control Receiver - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2823927727 - Control 2211524456 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WHA WhatsApp Message - Control PhoneType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2823927727 - Control 2211524456 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source> ,Customer,Contact,Vendor,Employee</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WHA WhatsApp Message - Control PhoneType - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Page 2823927727 - Control 1900957152 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WHA WhatsApp Message - Control SourceNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2823927727 - Control 1411289274 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receiver Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WHA WhatsApp Message - Control ReceiverName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2823927727 - Control 3643848063 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Country Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WHA WhatsApp Message - Control CountryCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2823927727 - Control 3080177079 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WHA WhatsApp Message - Control PhoneNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2823927727 - Control 186414097 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Message</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WHA WhatsApp Message - Control SendMessage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2823927727 - Control 3080618677 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Message</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WHA WhatsApp Message - Control Message - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2823927727 - Action 4174539456 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send Message</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WHA WhatsApp Message - Action Send - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2823927727 - Action 4174539456 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send Whatsapp message</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WHA WhatsApp Message - Action Send - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4225881927 - Control 2288807570 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 105737358">
+          <source>Specifies the value of the country Dial acording to ISO</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension WHA Phone No. Dial - Control WHA Dial - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4225881927 - Field 2288807570 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4148176377">
+          <source>Dial</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension WHA Phone No. Dial - Field WHA Dial - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4225881927 - Field 2288807570 - Method 2126772001 - NamedType 2137050839" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4148176377">
+          <source>Only allowed numbers and -</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension WHA Phone No. Dial - Field WHA Dial - Method OnValidate - NamedType DialErr</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
