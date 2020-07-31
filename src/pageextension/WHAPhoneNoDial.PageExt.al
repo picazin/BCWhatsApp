@@ -1,4 +1,4 @@
-pageextension 50100 "WHA Phone No. Dial" extends "Countries/Regions"
+pageextension 83255 "WHA Phone No. Dial" extends "Countries/Regions"
 {
     layout
     {

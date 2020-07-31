@@ -1,4 +1,4 @@
-codeunit 50100 "WHA WhatsApp Management"
+codeunit 83255 "WHA WhatsApp Management"
 {
     internal procedure SendMessage(PhoneNo: Text[30]; CountryCode: Code[10]; Message: BigText)
     var

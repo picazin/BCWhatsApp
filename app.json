@@ -28,8 +28,8 @@
   "platform": "16.0.0.0",
   "idRanges": [
     {
-      "from": 50100,
-      "to": 50149
+      "from": 83255,
+      "to": 83259
     }
   ],
   "features": ["TranslationFile"],

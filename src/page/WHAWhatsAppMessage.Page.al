@@ -1,4 +1,4 @@
-page 50100 "WHA WhatsApp Message"
+page 83255 "WHA WhatsApp Message"
 {
     PageType = Card;
     Caption = 'Whatsapp Messages';
@@ -19,7 +19,8 @@ page 50100 "WHA WhatsApp Message"
                     ApplicationArea = All;
                     trigger OnValidate()
                     begin
-                        InitData();
+                        if PhoneType = PhoneType::" " then
+                            InitData();
                     end;
                 }
                 field(SourceNo; SourceNo)

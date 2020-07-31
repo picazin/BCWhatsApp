@@ -1,8 +1,8 @@
-tableextension 50100 "WHA Phone No. Dial" extends "Country/Region"
+tableextension 83255 "WHA Phone No. Dial" extends "Country/Region"
 {
     fields
     {
-        field(50100; "WHA Dial"; Code[10])
+        field(83255; "WHA Dial"; Code[10])
         {
             Caption = 'Dial';
             DataClassification = SystemMetadata;
