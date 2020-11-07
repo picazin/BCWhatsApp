@@ -17,6 +17,7 @@ page 83255 "WHA WhatsApp Message"
                     Caption = 'Type';
                     OptionCaption = ' ,Customer,Contact,Vendor,Employee';
                     ApplicationArea = All;
+                    ToolTip = 'Specifies the value of the Type field';
                     trigger OnValidate()
                     begin
                         if PhoneType = PhoneType::" " then
@@ -27,6 +28,7 @@ page 83255 "WHA WhatsApp Message"
                 {
                     Caption = 'Source No.';
                     ApplicationArea = All;
+                    ToolTip = 'Specifies the value of the Source No. field';
                     trigger OnValidate()
                     begin
                         GetData();
@@ -63,17 +65,20 @@ page 83255 "WHA WhatsApp Message"
                     Caption = 'Receiver Name';
                     ApplicationArea = All;
                     Editable = false;
+                    ToolTip = 'Specifies the value of the Receiver Name field';
                 }
                 field(CountryCode; CountryCode)
                 {
                     Caption = 'Country Code';
                     ApplicationArea = All;
                     TableRelation = "Country/Region";
+                    ToolTip = 'Specifies the value of the Country Code field';
                 }
                 field(PhoneNo; PhoneNo)
                 {
                     Caption = 'Phone No.';
                     ApplicationArea = All;
+                    ToolTip = 'Specifies the value of the Phone No. field';
                 }
             }
             group(SendMessage)
@@ -84,6 +89,7 @@ page 83255 "WHA WhatsApp Message"
                     Caption = 'Message';
                     ApplicationArea = All;
                     MultiLine = true;
+                    ToolTip = 'Specifies the value of the Message field';
                 }
             }
         }
